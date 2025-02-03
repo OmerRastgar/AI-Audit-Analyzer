@@ -27,18 +27,16 @@ Ensure you have the following installed:
 ### Setup Instructions
 
 1. **Clone the Repository**
-   '''sh
+   ```sh
    git clone https://github.com/your-repo/ai-audit-analyzer.git
    cd ai-audit-analyzer
-'''
 
 2. **Install Dependencies**
-   '''sh
+   ```sh
    pip install -r requirements.txt
-'''
 3. **Run the Application**
-   '''sh
-  python app.py'''
+   ```sh
+   python app.py
 
 ### How It Works
 The tool iterates through a cybersecurity compliance checklist.
